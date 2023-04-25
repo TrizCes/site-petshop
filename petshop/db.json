@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 9164,
+      "name": "Beatriz Ceschini",
+      "email": "biaceschini@gmail.com",
+      "password": "teste03SENHA",
+      "birthday": "03/04/1995",
+      "cpf": "456.487.459-64",
+      "cep": "78940-456",
+      "place": "Rua: Machado de Assis, nº 10",
+      "city": "Guaramirim",
+      "UF": "SC"
+    }
+  ]
+}
